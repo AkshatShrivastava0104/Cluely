@@ -1,6 +1,6 @@
 # Free Cluely
 
-A desktop application to help you cheat on everything. 
+A desktop application to help you code on everything. 
 
 ## 🚀 Quick Start Guide
 
